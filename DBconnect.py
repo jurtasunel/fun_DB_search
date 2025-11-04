@@ -17,8 +17,8 @@ from Bio import Entrez, SeqIO # NCBI access.
 
 ### Entrez inputs
 print(Entrez)
-Entrez.email = "jmurtasun.94@gmail.com"
-Entrez.api_key = "1c5b74af4f785579858076ca3d607d927008"    
+Entrez.email = "xxxx@mail.com"
+Entrez.api_key = "xxxx"    
 
 # Get info of all databases. Each connection is considered as an "Entrez" and the record is the information read from the handle.
 handle = Entrez.einfo()
