@@ -1,0 +1,4 @@
+# Requirements for NCBI Toolkit
+
+# BioPython - Required for NCBI Entrez access and sequence handling
+biopython>=1.79
